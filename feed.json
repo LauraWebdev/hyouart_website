@@ -1,0 +1,110 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hyou Art",
+    "description": "",
+    "home_page_url": "https://LauraWebdev.github.io/hyouart_website",
+    "feed_url": "https://LauraWebdev.github.io/hyouart_website/feed.json",
+    "user_comment": "",
+    "icon": "https://LauraWebdev.github.io/hyouart_website/media/website/Black-2.png",
+    "author": {
+        "name": "Hyou"
+    },
+    "items": [
+        {
+            "id": "https://LauraWebdev.github.io/hyouart_website/bunny.html",
+            "url": "https://LauraWebdev.github.io/hyouart_website/bunny.html",
+            "title": "Bunny",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://LauraWebdev.github.io/hyouart_website/media/posts/6/198319245_2649251355372340_3858530716305125588_n-2.jpg\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://LauraWebdev.github.io/hyouart_website/media/posts/6/responsive/198319245_2649251355372340_3858530716305125588_n-2-xs.jpg 384w ,https://LauraWebdev.github.io/hyouart_website/media/posts/6/responsive/198319245_2649251355372340_3858530716305125588_n-2-sm.jpg 600w ,https://LauraWebdev.github.io/hyouart_website/media/posts/6/responsive/198319245_2649251355372340_3858530716305125588_n-2-md.jpg 768w ,https://LauraWebdev.github.io/hyouart_website/media/posts/6/responsive/198319245_2649251355372340_3858530716305125588_n-2-lg.jpg 1200w ,https://LauraWebdev.github.io/hyouart_website/media/posts/6/responsive/198319245_2649251355372340_3858530716305125588_n-2-xl.jpg 1600w\"  height=\"1114\" width=\"1440\" alt=\"\" />\n      \n    </figure>",
+            "image": "https://LauraWebdev.github.io/hyouart_website/media/posts/6/198319245_2649251355372340_3858530716305125588_n.jpg",
+            "author": {
+                "name": "Hyou"
+            },
+            "tags": [
+                   "Original",
+                   "Digital"
+            ],
+            "date_published": "2021-06-09T20:14:00+02:00",
+            "date_modified": "2022-08-02T20:32:23+02:00"
+        },
+        {
+            "id": "https://LauraWebdev.github.io/hyouart_website/mindshift.html",
+            "url": "https://LauraWebdev.github.io/hyouart_website/mindshift.html",
+            "title": "Mindshift",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://LauraWebdev.github.io/hyouart_website/media/posts/7/193750150_861663028029563_8470270925281234635_n-2.jpg\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://LauraWebdev.github.io/hyouart_website/media/posts/7/responsive/193750150_861663028029563_8470270925281234635_n-2-xs.jpg 384w ,https://LauraWebdev.github.io/hyouart_website/media/posts/7/responsive/193750150_861663028029563_8470270925281234635_n-2-sm.jpg 600w ,https://LauraWebdev.github.io/hyouart_website/media/posts/7/responsive/193750150_861663028029563_8470270925281234635_n-2-md.jpg 768w ,https://LauraWebdev.github.io/hyouart_website/media/posts/7/responsive/193750150_861663028029563_8470270925281234635_n-2-lg.jpg 1200w ,https://LauraWebdev.github.io/hyouart_website/media/posts/7/responsive/193750150_861663028029563_8470270925281234635_n-2-xl.jpg 1600w\"  height=\"950\" width=\"950\" alt=\"\" />\n      \n    </figure>",
+            "image": "https://LauraWebdev.github.io/hyouart_website/media/posts/7/193750150_861663028029563_8470270925281234635_n.jpg",
+            "author": {
+                "name": "Hyou"
+            },
+            "tags": [
+                   "Original",
+                   "Digital"
+            ],
+            "date_published": "2021-05-30T20:32:00+02:00",
+            "date_modified": "2022-08-02T20:33:01+02:00"
+        },
+        {
+            "id": "https://LauraWebdev.github.io/hyouart_website/xiangling-as-transboy.html",
+            "url": "https://LauraWebdev.github.io/hyouart_website/xiangling-as-transboy.html",
+            "title": "Xiangling as transboy",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://LauraWebdev.github.io/hyouart_website/media/posts/8/188149100_540281533816369_4198533656231020847_n-2.jpg\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://LauraWebdev.github.io/hyouart_website/media/posts/8/responsive/188149100_540281533816369_4198533656231020847_n-2-xs.jpg 384w ,https://LauraWebdev.github.io/hyouart_website/media/posts/8/responsive/188149100_540281533816369_4198533656231020847_n-2-sm.jpg 600w ,https://LauraWebdev.github.io/hyouart_website/media/posts/8/responsive/188149100_540281533816369_4198533656231020847_n-2-md.jpg 768w ,https://LauraWebdev.github.io/hyouart_website/media/posts/8/responsive/188149100_540281533816369_4198533656231020847_n-2-lg.jpg 1200w ,https://LauraWebdev.github.io/hyouart_website/media/posts/8/responsive/188149100_540281533816369_4198533656231020847_n-2-xl.jpg 1600w\"  height=\"938\" width=\"750\" alt=\"\" />\n      \n    </figure>",
+            "image": "https://LauraWebdev.github.io/hyouart_website/media/posts/8/188149100_540281533816369_4198533656231020847_n.jpg",
+            "author": {
+                "name": "Hyou"
+            },
+            "tags": [
+                   "Fanart",
+                   "Digital"
+            ],
+            "date_published": "2021-05-20T20:33:00+02:00",
+            "date_modified": "2022-08-02T20:33:52+02:00"
+        },
+        {
+            "id": "https://LauraWebdev.github.io/hyouart_website/yangfei.html",
+            "url": "https://LauraWebdev.github.io/hyouart_website/yangfei.html",
+            "title": "Yangfei",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://LauraWebdev.github.io/hyouart_website/media/posts/9/182420208_214024220485260_3284729140246534354_n.jpg\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://LauraWebdev.github.io/hyouart_website/media/posts/9/responsive/182420208_214024220485260_3284729140246534354_n-xs.jpg 384w ,https://LauraWebdev.github.io/hyouart_website/media/posts/9/responsive/182420208_214024220485260_3284729140246534354_n-sm.jpg 600w ,https://LauraWebdev.github.io/hyouart_website/media/posts/9/responsive/182420208_214024220485260_3284729140246534354_n-md.jpg 768w ,https://LauraWebdev.github.io/hyouart_website/media/posts/9/responsive/182420208_214024220485260_3284729140246534354_n-lg.jpg 1200w ,https://LauraWebdev.github.io/hyouart_website/media/posts/9/responsive/182420208_214024220485260_3284729140246534354_n-xl.jpg 1600w\"  height=\"800\" width=\"640\" alt=\"\" />\n      \n    </figure>",
+            "image": "https://LauraWebdev.github.io/hyouart_website/media/posts/9/182420208_214024220485260_3284729140246534354_n-2.jpg",
+            "author": {
+                "name": "Hyou"
+            },
+            "tags": [
+                   "Fanart",
+                   "Digital"
+            ],
+            "date_published": "2021-05-05T20:34:00+02:00",
+            "date_modified": "2022-08-02T20:34:39+02:00"
+        },
+        {
+            "id": "https://LauraWebdev.github.io/hyouart_website/venti-as-transgirl.html",
+            "url": "https://LauraWebdev.github.io/hyouart_website/venti-as-transgirl.html",
+            "title": "Venti as transgirl",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://LauraWebdev.github.io/hyouart_website/media/posts/10/176190641_514758759522099_6489043529786455791_n.jpg\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://LauraWebdev.github.io/hyouart_website/media/posts/10/responsive/176190641_514758759522099_6489043529786455791_n-xs.jpg 384w ,https://LauraWebdev.github.io/hyouart_website/media/posts/10/responsive/176190641_514758759522099_6489043529786455791_n-sm.jpg 600w ,https://LauraWebdev.github.io/hyouart_website/media/posts/10/responsive/176190641_514758759522099_6489043529786455791_n-md.jpg 768w ,https://LauraWebdev.github.io/hyouart_website/media/posts/10/responsive/176190641_514758759522099_6489043529786455791_n-lg.jpg 1200w ,https://LauraWebdev.github.io/hyouart_website/media/posts/10/responsive/176190641_514758759522099_6489043529786455791_n-xl.jpg 1600w\"  height=\"576\" width=\"480\" alt=\"\" />\n      \n    </figure>",
+            "image": "https://LauraWebdev.github.io/hyouart_website/media/posts/10/176190641_514758759522099_6489043529786455791_n-2.jpg",
+            "author": {
+                "name": "Hyou"
+            },
+            "tags": [
+                   "Fanart",
+                   "Digital"
+            ],
+            "date_published": "2021-04-21T20:35:00+02:00",
+            "date_modified": "2022-08-02T20:35:27+02:00"
+        },
+        {
+            "id": "https://LauraWebdev.github.io/hyouart_website/dream.html",
+            "url": "https://LauraWebdev.github.io/hyouart_website/dream.html",
+            "title": "Dream",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://LauraWebdev.github.io/hyouart_website/media/posts/4/246068428_708935797167613_1980711427656456225_n-2.jpg\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://LauraWebdev.github.io/hyouart_website/media/posts/4/responsive/246068428_708935797167613_1980711427656456225_n-2-xs.jpg 384w ,https://LauraWebdev.github.io/hyouart_website/media/posts/4/responsive/246068428_708935797167613_1980711427656456225_n-2-sm.jpg 600w ,https://LauraWebdev.github.io/hyouart_website/media/posts/4/responsive/246068428_708935797167613_1980711427656456225_n-2-md.jpg 768w ,https://LauraWebdev.github.io/hyouart_website/media/posts/4/responsive/246068428_708935797167613_1980711427656456225_n-2-lg.jpg 1200w ,https://LauraWebdev.github.io/hyouart_website/media/posts/4/responsive/246068428_708935797167613_1980711427656456225_n-2-xl.jpg 1600w\"  height=\"1080\" width=\"1080\" alt=\"\" />\n      \n    </figure>",
+            "image": "https://LauraWebdev.github.io/hyouart_website/media/posts/4/246068428_708935797167613_1980711427656456225_n.jpg",
+            "author": {
+                "name": "Hyou"
+            },
+            "tags": [
+                   "Traditional",
+                   "Fanart"
+            ],
+            "date_published": "2021-02-17T20:13:00+01:00",
+            "date_modified": "2022-08-02T20:31:42+02:00"
+        }
+    ]
+}
